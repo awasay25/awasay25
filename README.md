@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Wasay</h1>
 <h3 align="center">A cyber security and a programming enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
+
 
 
 - 🔭 I’m currently working on **C++, OOP, Web Dev.**
